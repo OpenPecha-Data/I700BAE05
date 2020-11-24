@@ -3,5 +3,42 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W10305
   title: གསུང་འབུམ། ངག་དབང་ཆོས་གྲགས
-  volume: ''
+  volume:
+    2beaf8be710f467488517964a7e5519f:
+      image_group_id: I2140
+      title: ''
+      volume_number: 1
+      total_pages: 516
+    d160f9d39ce84ba09a5b5c35d7553380:
+      image_group_id: I2141
+      title: ''
+      volume_number: 2
+      total_pages: 518
+    9c1ffaace39b447590b75b3d71834c8f:
+      image_group_id: I2142
+      title: ''
+      volume_number: 3
+      total_pages: 624
+    b75e20398bfe4b99a3501757c5a048c1:
+      image_group_id: I2143
+      title: ''
+      volume_number: 4
+      total_pages: 580
+    6919327d8974455f80198a2ae4b1092c:
+      image_group_id: I2144
+      title: ''
+      volume_number: 5
+      total_pages: 488
+    fd604df99e7a48a99634f2c4f89b06e7:
+      image_group_id: I2145
+      title: ''
+      volume_number: 6
+      total_pages: 568
   author: ''
+ebook_metadata:
+  title: གསུང་འབུམ། ངག་དབང་ཆོས་གྲགས
+  author: ''
+  sku: P007861
+  cover: cover.jpg
+  layers:
+  - pagination
