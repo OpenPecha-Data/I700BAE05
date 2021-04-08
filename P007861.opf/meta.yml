@@ -10,31 +10,37 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 516
+      base_file: v001.txt
     fe746cc2357a4b2aa240124cba3be141:
       image_group_id: I2141
       title: ''
       volume_number: 2
       total_pages: 518
+      base_file: v002.txt
     280e210be49d412bac47196c892667e7:
       image_group_id: I2142
       title: ''
       volume_number: 3
       total_pages: 624
+      base_file: v003.txt
     a6e84f44588b4163802985aa9dc12486:
       image_group_id: I2143
       title: ''
       volume_number: 4
       total_pages: 580
+      base_file: v004.txt
     84e7d804531e4123af8b08492e1e1c9d:
       image_group_id: I2144
       title: ''
       volume_number: 5
       total_pages: 488
+      base_file: v005.txt
     ae3e5b8e75604f769d3ef49374926903:
       image_group_id: I2145
       title: ''
       volume_number: 6
       total_pages: 568
+      base_file: v006.txt
 ebook_metadata:
   title: གསུང་འབུམ། ངག་དབང་ཆོས་གྲགས
   author: ''
