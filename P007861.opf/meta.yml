@@ -1,5 +1,7 @@
 id: P007861
 initial_creation_type: ocr
+created_at: 22/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W10305
   title: གསུང་འབུམ། ངག་དབང་ཆོས་གྲགས
@@ -41,10 +43,3 @@ source_metadata:
       volume_number: 6
       total_pages: 568
       base_file: v006.txt
-ebook_metadata:
-  title: གསུང་འབུམ། ངག་དབང་ཆོས་གྲགས
-  author: ''
-  sku: P007861
-  cover: cover.jpg
-  layers:
-  - pagination
